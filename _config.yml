@@ -15,7 +15,7 @@ collections:
 color:
   brandStrength: 0.9501328044570982
   lightness: 1
-  saturation: 0.593617
+  saturation: 1
   rhythmicContrast: 0
   brandColors:
     - '#962D3E'
