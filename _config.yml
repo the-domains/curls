@@ -1,14 +1,26 @@
 layout_spectrum: 0.4092991470824927
-typography_spectrum: 0.43916320777498186
+name: Curls
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   brandStrength: 0.9501328044570982
-  lightness: 0.7667091940529644
-  saturation: 0.013370933709666133
-  rhythmicContrast: 0.21252985438331962
+  lightness: 0.3531915
+  saturation: 0.7744681
+  rhythmicContrast: 0.9829787
   brandColors:
     - '#962D3E'
     - '#343642'
     - '#979C9C'
     - '#F2EBC7'
     - '#348899'
-name: Curls
+typography_spectrum: 0.4391632077749819
