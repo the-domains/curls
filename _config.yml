@@ -1,0 +1,14 @@
+layout_spectrum: 0.4092991470824927
+typography_spectrum: 0.43916320777498186
+color:
+  brandStrength: 0.9501328044570982
+  lightness: 0.7667091940529644
+  saturation: 0.013370933709666133
+  rhythmicContrast: 0.21252985438331962
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+name: Curls
