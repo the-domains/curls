@@ -11,9 +11,8 @@ color:
     - '#F2EBC7'
     - '#348899'
 layout_spectrum: 0.2148936
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb7ab7a1-07e1-4b34-809c-14e2e2c7021f.png
-name: Curls
+logo: null
+name: curls
 navigation:
   - name: Facebook
     url: 'https://www.facebook.com/curlsmy/'
@@ -30,4 +29,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Curls
+title: ''
