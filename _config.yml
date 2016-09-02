@@ -1,4 +1,18 @@
+typography_spectrum: 0.4391632077749819
+color:
+  brandStrength: 0.9501328044570982
+  lightness: 1
+  saturation: 0.5553191
+  rhythmicContrast: 0
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
 layout_spectrum: 0.2148936
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb7ab7a1-07e1-4b34-809c-14e2e2c7021f.png
 name: Curls
 collections:
   - index:
@@ -12,16 +26,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.9501328044570982
-  lightness: 1
-  saturation: 0.5553191
-  rhythmicContrast: 0
-  brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
-typography_spectrum: 0.4391632077749819
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb7ab7a1-07e1-4b34-809c-14e2e2c7021f.png'
+title: Curls
